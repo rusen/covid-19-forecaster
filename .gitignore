@@ -1,0 +1,12 @@
+# node
+
+.history
+apify_storage
+node_modules
+output.json
+
+.DS_Store
+.ipynb_checkpoints/
+data/
+output/
+preds/
